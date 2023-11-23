@@ -1,0 +1,1 @@
+A simple CLI program using Rust that echoes the back the string gotten
